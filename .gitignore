@@ -6,3 +6,4 @@ nemoclaw/dist/
 *.log
 .version
 .venv/
+*.tgz
